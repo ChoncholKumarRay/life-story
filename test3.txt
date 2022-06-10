@@ -1,3 +1,4 @@
 this is just a test to how to pull a remote branch to local repository
 so, successfully clone remote repo branch to local repo
 typing from huda branch
+to see how pull works
